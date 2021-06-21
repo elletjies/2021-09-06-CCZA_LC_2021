@@ -382,7 +382,6 @@ please preview your site before committing, and make sure to run
 <hr/>
 
 
-
 {% comment %}
 SETUP
 
